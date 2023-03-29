@@ -1,6 +1,6 @@
 {
-  name": "Portfolio",
- "homepage": "https://bikashsingh-github.github.io/Portfolio-Bikash",
+  "name": "portfolio",
+  "homepage": "https://github.com/BikashSingh-GitHub/Portfolio-Bikash.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
